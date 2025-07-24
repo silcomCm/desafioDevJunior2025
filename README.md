@@ -71,15 +71,15 @@ Memórias RAM: 6 unidades
 ```
 
 ### **Solicitação de Produção:**
-- **4 bicicletas**
+- **6 bicicletas**
 - **3 computadores**
 
 ### **Cálculos Automáticos:**
 
-**Para Bicicletas (4 unidades):**
-- Rodas necessárias: 4 × 2 = **8 rodas**
-- Quadros necessários: 4 × 1 = **4 quadros**  
-- Guidões necessários: 4 × 1 = **4 guidões**
+**Para Bicicletas (6 unidades):**
+- Rodas necessárias: 6 × 2 = **12 rodas**
+- Quadros necessários: 6 × 1 = **6 quadros**  
+- Guidões necessários: 6 × 1 = **6 guidões**
 
 **Para Computadores (3 unidades):**
 - Gabinetes necessários: 3 × 1 = **3 gabinetes**
@@ -88,23 +88,23 @@ Memórias RAM: 6 unidades
 
 ### **Tela do MRP Esperada:**
 
-| Produto | Componente | Necessário | Em Estoque | Retirado do Estoque | A Comprar |
-|---------|------------|------------|------------|---------------------|-----------|
-| Bicicleta | Rodas | 8 | 10 | 8 | **0** |
-| Bicicleta | Quadros | 4 | 5 | 4 | **0** |
-| Bicicleta | Guidões | 4 | 10 | 4 | **0** |
-| Computador | Gabinetes | 3 | 2 | 2 | **1** ⚠️ |
-| Computador | Placas-mãe | 3 | 5 | 3 | **0** |
-| Computador | Memórias RAM | 6 | 6 | 6 | **0** |
+| Produto | Componente | Necessário | Em Estoque |  A Comprar |
+|---------|------------|------------|---------------------|-----------|
+| Bicicleta | Rodas | 12 | 10  | **2** ⚠️ |
+| Bicicleta | Quadros | 6 | 5 | **1** ⚠️ |
+| Bicicleta | Guidões | 6 | 10  | **0** |
+| Computador | Gabinetes | 3 | 2  | **1** ⚠️ |
+| Computador | Placas-mãe | 3 | 5  | **0** |
+| Computador | Memórias RAM | 6 | 6 | **0** |
 
-**Resultado:** É necessário comprar **1 gabinete** para completar a produção.
+**Resultado:** É necessário comprar **2 rodas**, **1 quadro** e **1 gabinete** para completar a produção.
 
 ---
 
 ## 🛠️ **Requisitos Técnicos**
 
 ### **Tecnologias Aceitas**
-- **Backend:** Pode ser feito em qualquer framework ou linguagem
+- **Backend:** Precisa ser feito em PHP
 - **Frontend:** HTML/CSS/JavaScript, React, Vue, Angular, ou framework de sua escolha
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite
 
@@ -144,31 +144,29 @@ projeto-mrp/
 
 ## 🎯 **Critérios de Avaliação**
 
-### **Funcionalidade (40%)**
+### **Funcionalidade**
 - ✅ Sistema atende todos os requisitos especificados
 - ✅ Cálculos de MRP estão corretos
 - ✅ Persistência de dados funciona adequadamente
 - ✅ Interface permite todas as operações necessárias
 
-### **Qualidade do Código (25%)**
+### **Qualidade do Código**
 - ✅ Código bem estruturado e organizado
 - ✅ Boas práticas de programação
 - ✅ Separação adequada de responsabilidades
 - ✅ Código legível e comentado quando necessário
 
-### **Banco de Dados (20%)**
+### **Banco de Dados**
 - ✅ Modelagem adequada das tabelas
 - ✅ Consultas eficientes
-- ✅ Integridade referencial
 - ✅ Script de criação funcional
 
-### **Interface do Usuário (10%)**
+### **Interface do Usuário**
 - ✅ Interface intuitiva e funcional
 - ✅ Apresentação clara das informações
 - ✅ Experiência do usuário satisfatória
-- ✅ Responsividade básica
 
-### **Documentação (5%)**
+### **Documentação**
 - ✅ README claro e completo
 - ✅ Instruções de instalação funcionais
 - ✅ Comentários no código quando necessário
