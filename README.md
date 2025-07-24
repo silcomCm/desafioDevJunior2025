@@ -104,7 +104,7 @@ Memórias RAM: 6 unidades
 ## 🛠️ **Requisitos Técnicos**
 
 ### **Tecnologias Aceitas**
-- **Backend:** Precisa ser feito em PHP
+- **Backend:** PHP puro com estrutura organizada ou Framework PHP
 - **Frontend:** HTML/CSS/JavaScript, React, Vue, Angular, ou framework de sua escolha
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite
 
