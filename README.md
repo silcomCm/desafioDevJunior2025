@@ -175,7 +175,7 @@ projeto-mrp/
 
 ## ⏰ **Informações de Prazo**
 
-**Tempo Sugerido:** 3 dias úteis
+**Tempo Sugerido:** 2 dias úteis
 
 **Entrega:** Código fonte completo + documentação via repositório Git ou arquivo compactado
 
