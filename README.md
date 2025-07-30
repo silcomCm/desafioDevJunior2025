@@ -118,12 +118,6 @@ Memórias RAM: 6 unidades
 - ✅ Persistência em banco de dados
 - ✅ Validação de dados de entrada
 
-# ⚠️ **IMPORTANTE: NÃO USE IA!**
-
-Este teste técnico tem como objetivo **avaliar seu raciocínio lógico e capacidade de resolução de problemas**.
-
-## ❌ **NÃO utilize:**
-- ChatGPT, Claude, Copilot ou qualquer IA para gerar código
 
 ---
 
@@ -177,6 +171,24 @@ projeto-mrp/
 - ✅ README claro e completo
 - ✅ Instruções de instalação funcionais
 - ✅ Comentários no código quando necessário
+
+
+# ⚠️ **IMPORTANTE: USO CONSCIENTE DE IA**
+
+Este teste técnico tem como objetivo **avaliar seu raciocínio lógico e capacidade de resolução de problemas**.
+
+## ❌ **NÃO É PERMITIDO:**
+- Pedir para IA gerar o sistema completo
+- Copiar código inteiro gerado por IA sem entendimento
+- Usar IA para resolver os problemas principais sem seu raciocínio
+- Entregar projeto onde não consegue explicar a lógica implementada
+
+## ✅ **USO PERMITIDO DE IA:**
+- Tirar dúvidas sobre sintaxe específica
+- Revisar pequenos trechos de código
+- Ajuda com debugging pontual
+- Esclarecimentos sobre conceitos
+- Sugestões de melhorias em código já escrito por você
 
 ---
 
