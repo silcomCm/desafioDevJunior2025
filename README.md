@@ -104,8 +104,8 @@ Memórias RAM: 6 unidades
 ## 🛠️ **Requisitos Técnicos**
 
 ### **Tecnologias Aceitas**
-- **Backend:** PHP puro com estrutura organizada ou Framework PHP
-- **Frontend:** HTML/CSS/JavaScript, React, Vue, Angular, ou framework de sua escolha
+- **Backend:** PHP puro (sem frameworks)
+- **Frontend:** HTML, CSS, JavaScript + Bootstrap/Tailwind
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite
 
 ### **Arquitetura Mínima**
@@ -117,6 +117,13 @@ Memórias RAM: 6 unidades
 - ✅ Cálculos dinâmicos de MRP
 - ✅ Persistência em banco de dados
 - ✅ Validação de dados de entrada
+
+# ⚠️ **IMPORTANTE: NÃO USE IA!**
+
+Este teste técnico tem como objetivo **avaliar seu raciocínio lógico e capacidade de resolução de problemas**.
+
+## ❌ **NÃO utilize:**
+- ChatGPT, Claude, Copilot ou qualquer IA para gerar código
 
 ---
 
