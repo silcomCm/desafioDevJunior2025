@@ -198,6 +198,25 @@ Este teste técnico tem como objetivo **avaliar seu raciocínio lógico e capaci
 
 **Entrega:** Código fonte completo + documentação via repositório Git ou arquivo compactado
 
+### 📝 **Instruções de Entrega**
+
+**Nome do Repositório:**  
+Para facilitar a avaliação, nomeie seu repositório seguindo o padrão:
+
+```
+desafio-dev-junior-2025-[seu-nome-sobrenome]
+```
+
+**Exemplos:**
+- desafio-dev-junior-2025-maria-santos
+- desafio-dev-junior-2025-pedro-oliveira
+- desafio-dev-junior-2025-carlos-ferreira
+
+⚠️ **Importante:**
+- Use apenas letras minúsculas
+- Substitua espaços por hífens (-)
+- Não use caracteres especiais ou acentos
+
 ---
 
 ## 🚀 **Dicas para Sucesso**
@@ -209,3 +228,4 @@ Este teste técnico tem como objetivo **avaliar seu raciocínio lógico e capaci
 5. **Documente bem:** README claro vale muito na avaliação
 
 **Boa sorte com o desenvolvimento! 🛠️**
+
